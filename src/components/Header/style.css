@@ -1,0 +1,8 @@
+.container {
+  text-align: center;
+  position: sticky;
+  top: 0;
+  background: #000;
+  color: #eee;
+  padding: 1rem 0;
+}
